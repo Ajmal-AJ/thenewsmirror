@@ -1173,7 +1173,11 @@ span.post-comment span {
 	-webkit-backface-visibility: hidden;
 }
 .logo {
-	padding: 22px 0;
+	/* padding: 22px 0; */
+	padding: 4px 0;
+}
+.logo img {
+	width: 94%;
 }
 .header-right {
 	float: right;
